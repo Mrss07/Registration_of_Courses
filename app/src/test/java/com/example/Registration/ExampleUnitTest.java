@@ -1,4 +1,4 @@
-package com.example.courseregistrationwaitlist;
+package com.example.Registration;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.example.courseregistrationwaitlist;
+package com.example.Registration;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;

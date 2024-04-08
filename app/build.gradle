@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.courseregistrationwaitlist'
+    namespace 'com.example.Registration'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.courseregistrationwaitlist"
+        applicationId "com.example.Registration"
         minSdk 19
         targetSdk 33
         versionCode 1
